@@ -8,25 +8,25 @@
       },
       {
           "name": "times",
-          "kind": "Grouping",
+          "kind": "GroupingOrMeasure",
           "displayName": "Time",
           "displayNameKey": "Role_DisplayName_Time"
       },
       {
           "name": "events",
-          "kind": "Grouping",
+          "kind": "GroupingOrMeasure",
           "displayName": "Events",
           "displayNameKey": "Role_DisplayName_Events"
       },
       {
         "name": "tooltips",
-        "kind": "Grouping",
+        "kind": "GroupingOrMeasure",
         "displayName": "Tooltips",
         "displayNameKey": "Role_DisplayName_Tooltips"
       },
       {
         "name": "color",
-        "kind": "Grouping",
+        "kind": "GroupingOrMeasure",
         "displayName": "Color",
         "displayNameKey": "Role_DisplayName_Color"
       }
